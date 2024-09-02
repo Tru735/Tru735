@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development(HTML✅ CSS✅ JS🏃‍♂️‍➡️)
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Open Source
-- 📫 How to reach me : discord - tru735 || X(twitter) username : @trutjs735
+- 📫 How to reach me : X(twitter) username : @trutjs735
 - 😄 Pronouns: he/him
 
 

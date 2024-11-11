@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tru735
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Web Development(HTML✅ CSS✅ JS🏃‍♂️‍➡️)
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Machine Learning in Python
 - 💞️ I’m looking to collaborate on Open Source
 - 📫 How to reach me : X(twitter) username : @trutjs735
 - 😄 Pronouns: he/him
